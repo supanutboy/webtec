@@ -1,0 +1,80 @@
+[
+{
+    "q":"ภาพในรูปมาจากภาพยนตร์เรื่องใด","1":"The Shawshank Redemption","2":"A Beautiful Mind","3":" The Godfather","4":"Pulp Fiction","ans":"The Shawshank Redemption","pic":"Movie/shawshamk.jpg","url":"http://www.imdb.com/title/tt0111161/mediaviewer/rm3172827136"
+},
+{
+    "q":"ภาพยนต์เรื่องนี้ออกฉายเมื่อปีใด","1":"2007","2":"2008","3":"2009","4":"2010","ans":"2009","pic":"Movie/Up.jpg","url":"http://www.imdb.com/title/tt1049413/mediaviewer/rm3186527488"
+}
+,
+{
+    "q":"ภาพยนตร์ดังภาพเป็นภาพแนวไหน?","1":"Comedy","2":"Biography","3":"Thriller","4":"Action","ans":"Thriller","pic":"Movie/6sense.jpg","url":"http://www.imdb.com/title/tt0167404/mediaviewer/rm2099059456"
+}
+,
+{
+    "q":"รูปภาพดังกล่าวมาจากภาพยนตร์เรื่องใด?","1":"The Batman Begin","2":"The Dark Knight","3":"The Dark Knight Rise","4":"Justice League","ans":"The Dark Knight","pic":"Movie/batman.jpg","url":"http://www.imdb.com/title/tt0468569/mediaviewer/rm3252125696"
+}
+,
+{
+    "q":"ภาพยนตร์ดังภาพฉายเมื่อปีใด?","1":"1934","2":"1946","3":"1963","4":"1952","ans":"1934","pic":"Movie/ItHappenOneNight.jpg","url":"http://www.imdb.com/title/tt0025316/mediaviewer/rm4272279040"
+}
+,
+{
+    "q":"ภาพยนตร์ดังภาพชื่อเรื่องว่าอะไร?","1":"La La Land","2":"High School Musical","3":"One Song","4":"Once","ans":"La La Land","pic":"Movie/lalaland.jpg","url":"http://www.imdb.com/title/tt3783958/mediaviewer/rm3967749632"
+}
+,
+{
+    "q":"ภาพยนตร์ดังภาพชื่อเรื่องว่าอะไร?","1":"12 Angry Men","2":"The Godfather","3":"Goodfellas","4":"Schindler's List","ans":"12 Angry Me","pic":"Movie/12angryman.jpg","url":"http://www.imdb.com/title/tt0050083/mediaviewer/rm3604161536"
+}
+,
+{
+    "q":"ภาพยนตร์ดังภาพชื่อเรื่องว่าอะไร?","1":"The Green Mile","2":"Forrest Gump","3":"American History X","4":"Gladiator","ans":"Forrest Gump","pic":"Movie/forrestGump.jpg","url":"http://www.imdb.com/title/tt0109830/mediaviewer/rm1954748672"
+}
+,
+{
+    "q":"ภาพยนตร์ดังภาพชื่อเรื่องว่าอะไร?","1":"Interstellar","2":"Django Unchained ","3":"Inception","4":"Fight Club","ans":"Fight Club","pic":"Movie/fightclub.jpg","url":"http://www.imdb.com/title/tt0137523/mediaviewer/rm301108480"
+}
+,
+{
+    "q":"ภาพยนตร์เรื่องนี้เหตุการณ์เกิดขึ้นที่ประเทศใด?","1":"ออสเตรีย","2":"นิวซีแลนด์","3":"สเปน","4":"อิตาลี","ans":"อิตาลี","pic":"Movie/lifeisbeatiful.jpg","url":"http://www.imdb.com/title/tt0118799/mediaviewer/rm2303464448"
+}
+,
+{
+    "q":"ภาพยนตร์ดังภาพชื่อเรื่องว่าอะไร?","1":"Nightcrawler","2":"Shutter Island","3":"Prisoners","4":"Gone Girl","ans":"Prisoners","pic":"Movie/Prisoner.jpg","url":"http://www.imdb.com/title/tt1392214/mediaviewer/rm2941453312"
+}
+,
+{
+    "q":"ภาพยนตร์ดังภาพเป็นภาพแนวไหน?","1":"Biography","2":"Musical","3":"Romance","4":"Horror","ans":"Biography","pic":"Movie/argo.jpg","url":"http://www.imdb.com/title/tt1024648/mediaviewer/rm382620160"
+}
+,
+{
+    "q":"ภาพยนตร์ดังภาพชื่อเรื่องว่าอะไร?","1":"The Departed","2":"American Beauty","3":"No Country for Old Men","4":"Million Dollar Baby","ans":"No Country for Old Men","pic":"Movie/NoContryFormOldMan.jpg","url":"http://www.imdb.com/title/tt0477348/mediaviewer/rm2557616640"
+}
+,
+{
+    "q":"ตัวละครดังภาพมีชื่อว่าอะไร?","1":"WALL·E","2":"EVE","3":"AUTO","4":"UP","ans":"WALL·E","pic":"Movie/WallE.jpg","url":"http://www.imdb.com/title/tt0910970/mediaviewer/rm870681856"
+}
+,
+{
+    "q":"ตัวละครจากภาพยนตร์ดังภาพรับอาชีพอะไร?","1":"ขายประกัน","2":"เอเย่นต์นักกีฬา","3":"ขายลูกชิ้น","4":"นักกีฬา","ans":"เอเย่นต์นักกีฬา","pic":"Movie/jerry.jpg","url":"http://www.imdb.com/title/tt0116695/mediaviewer/rm1268124672"
+}
+,
+{
+    "q":"ภาพยนตร์ดังภาพชื่อเรื่องว่าอะไร?","1":"50/50","2":"JUNO","3":"Easy A","4":"500 Days of Summer","ans":"500 Days of Summer","pic":"Movie/500day.jpg","url":"http://www.imdb.com/title/tt1022603/mediaviewer/rm2266139648"
+}
+,
+{
+    "q":"ภาพยนตร์ดังภาพชื่อเรื่องว่าอะไร?","1":"Bruce Almighty","2":"Yes man","3":"The Mask","4":"Fun with Dick and Jane","ans":"Yes man","pic":"Movie/yesman.jpg","url":"http://www.imdb.com/title/tt1068680/mediaviewer/rm1396617216"
+}
+,
+{
+    "q":"ภาพยนต์เรื่องนี้ออกฉายเมื่อปีใด?","1":"2010","2":"2011","3":"2012","4":"2013","ans":"2013","pic":"Movie/whatif.jpg","url":"http://www.imdb.com/title/tt1486834/mediaviewer/rm2097794560"
+}
+,
+{
+    "q":"ภาพยนตร์ดังภาพชื่อเรื่องว่าอะไร?","1":"Paper Towns","2":"If I Stay ","3":"The Spectacular Now","4":"The Last Song","ans":"Paper Towns","pic":"Movie/PaperTown.jpg","url":"http://www.imdb.com/title/tt3622592/mediaviewer/rm2971992320"
+}
+,
+{
+    "q":"ตัวละครในภาพมีชื่อว่าอะไร?","1":"Greg","2":"Earl","3":"Jay","4":"Rachel","ans":"Rachel","pic":"Movie/MeandDying.jpg","url":"http://www.imdb.com/title/tt2582496/mediaviewer/rm1631252736"
+}
+]
